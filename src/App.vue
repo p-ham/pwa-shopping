@@ -12,6 +12,7 @@
 </template>
 
 <script>
+import firebase from 'firebase';
 import Item from './components/Item.vue'
 
 // Your web app's Firebase configuration
